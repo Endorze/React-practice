@@ -1,0 +1,15 @@
+.header {
+    background-color: blueviolet;
+    color: whitesmoke;
+    padding: 24px;
+    text-align: center;
+}
+
+.pageTitle {
+    font-size: 4rem;
+}
+
+.subTitle {
+    color: burlywood;
+    font-size: 2.2rem;
+}
